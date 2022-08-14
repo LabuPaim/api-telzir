@@ -24,7 +24,7 @@
 
 ## Descrição
 
-Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficientes e escaláveis.
+Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável.
 
 ## Instalação
 
@@ -45,7 +45,7 @@ $ yarn start:dev
 $ yarn start:prod
 ```
 
-## Test
+## Teste
 
 ```bash
 # unit tests
