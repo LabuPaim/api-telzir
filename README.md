@@ -60,14 +60,10 @@ $ yarn test:cov
 
 ## Suporte
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Nest é um projeto de código aberto licenciado pelo MIT. Se quiser acessar a documentação é só  [clicar aqui](https://docs.nestjs.com/).
 
 ## Contato
 
 - Author - Victor Paim
 - Linkedin - [@labupaim](https://www.linkedin.com/in/labupaim/)
 - GitHub - [@LabuPaim](https://github.com/LabuPaim)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
