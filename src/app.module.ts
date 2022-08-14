@@ -1,11 +1,13 @@
 import { Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
 import { DddModule } from './ddd/ddd.module';
+import { PlanModule } from './plan/plan.module';
 
 @Module({
   imports: [
     MongooseModule.forRoot('mongodb+srv://admin:mTXFR9wTdfPNyA89@api-telzir.n4fv0fe.mongodb.net/?retryWrites=true&w=majority'),
-    DddModule
+    DddModule,
+    PlanModule
   ],
   controllers: [],
   providers: [],
