@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
 import { DddModule } from './ddd/ddd.module';
 import { PlanModule } from './plan/plan.module';
+import { RedirectController } from './redirect/redirect.controller';
 
 @Module({
   imports: [
@@ -9,7 +10,7 @@ import { PlanModule } from './plan/plan.module';
     DddModule,
     PlanModule
   ],
-  controllers: [],
+  controllers: [RedirectController],
   providers: [],
 })
 export class AppModule {}
