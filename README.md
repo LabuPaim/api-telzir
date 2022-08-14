@@ -1,3 +1,8 @@
+
+
+[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
+[circleci-url]: https://circleci.com/gh/nestjs/nest
+
 <p align="center">
   <a href="https://docs.nestjs.com/" target="blank"><img src="public\img\nestjs_logo_icon_169927.png" width="200" alt="Nest Logo" /></a>
   <a href="https://swagger.io/" target="blank"><img src="public\img\1_aKVg84SP5oPV9fwOnbl6yQ.png" width="200" alt="Swagger Logo" /></a>
@@ -7,16 +12,7 @@
   <a href="https://nodejs.org/en/" target="blank"><img src="public\img\nodejs.svg" width="200" alt="NodeJs Logo" /></a>
   <a href="https://insomnia.rest/" target="blank"><img src="public\img\insomnia2-1.png" width="200" alt="Insomnia Logo" /></a>
 
-</p>
-
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-  
-<p align="center">
-  <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="public\img\nestjs_logo_icon_169927.png" alt="NPM Version" /></a>
-</p>
-  
+</p>    
 
 ## Descrição
 
