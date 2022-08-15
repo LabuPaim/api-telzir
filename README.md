@@ -16,7 +16,7 @@
 
 ## Descrição
 
-Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável. Persistência de dados no MongoDB Atlas e deploy feito no Heroku.
+Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável com documentação feita em Swagger. Persistência de dados no MongoDB Atlas e deploy feito no [Heroku](https://api--telzir.herokuapp.com/).
 
 ## Instalação
 
