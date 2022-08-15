@@ -7,10 +7,10 @@
 <p align="center">
   <a href="https://docs.nestjs.com/" target="blank"><img src="public\img\nest.png" width="100" alt="Nest Logo" /></a>
   <a href="https://swagger.io/" target="blank"><img src="public\img\swagger.png" width="100" alt="Swagger Logo" /></a>
-  <a href="https://www.typescriptlang.org/" target="blank"><img src="public\img\TS.png" width="100" alt="TypeScript Logo" /></a>
-  <a href="http://expressjs.com/pt-br/" target="blank"><img src="public\img\express.png" width="100" alt="ExpressJS Logo" /></a>  
-  <a href="https://nodejs.org/en/" target="blank"><img src="public\img\node.png" width="100" alt="NodeJs Logo" /></a>
-  <a href="https://insomnia.rest/" target="blank"><img src="public\img\insomnia.png" width="100" alt="Insomnia Logo" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="public\img\TS.png" width="100" alt="TypeScript Logo"/></a>
+  <a href="http://expressjs.com/pt-br/" target="blank"><img src="public\img\express.png" width="100" alt="ExpressJS Logo"/></a>  
+  <a href="https://nodejs.org/en/" target="blank"><img src="public\img\node.png" width="100"  alt="NodeJs Logo" /></a>
+  <a href="https://insomnia.rest/" target="blank"><img src="public\img\insomnia.png" width="100"  alt="Insomnia Logo" /></a>
 
 </p>    
 
